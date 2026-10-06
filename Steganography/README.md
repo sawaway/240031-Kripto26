@@ -42,4 +42,4 @@ File yang digunakan dalam program:
 
 ### Decode
 
-![alt text](Decode.png)
+![alt text](Decode.)
